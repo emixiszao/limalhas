@@ -1,0 +1,16 @@
+{
+  "name": "Limalhas",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Controle simples de dinheiro (Limalhas) para a mesa. Só o GM edita; todos veem o saldo.",
+  "author": "Seu Nome",
+  "icon": "https://emixiszao.github.io/limalhas/icon.png",
+  "action": {
+    "title": "Limalhas",
+    "icon": "https://emixiszao.github.io/limalhas/icon.png",
+    "popover": "https://emixiszao.github.io/limalhas/index.html",
+    "width": 320,
+    "height": 330
+  },
+  "background_url": "https://emixiszao.github.io/limalhas/background.html"
+}
